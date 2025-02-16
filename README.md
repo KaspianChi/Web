@@ -33,3 +33,7 @@
 
 В этом задании нужно было перехватывать и изменять траффик с помощью Charles Proxy на Windows.
 
+---
+
+### Маленькое дополнительное задание - создать веб-страницу в Visual Studio, отвечающую определенным требованиям.
+[Ссылка на видео на скриншот](https://drive.google.com/file/d/1zVPaPQnReo2-PWm-0LqwlM4YMWVxfUcB/view?usp=sharing)
