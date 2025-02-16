@@ -17,3 +17,13 @@
 [Ссылка на тестовый прогон](https://github.com/KaspianChi/Web/blob/main/G9-Test%2Brun%2BDmitry%2BDemchilo.pdf)
 
 [Ссылка на отчет о дефектах](https://github.com/KaspianChi/Web/blob/main/Report%20from%20Demchilo%20D.xlsx)
+
+---
+
+### Charles Proxy для Windows.
+[Ссылка на видео](https://github.com/KaspianChi/Web/commit/1da4d100ea8e2cb075c4b932a40fafc31c4bbf4f)
+
+[Ссылка на видео на Google Drive](https://drive.google.com/file/d/1TiW4n09uWFvnf-YgMW0i3ongJ0m_qbXy/view?usp=sharing)
+
+
+
