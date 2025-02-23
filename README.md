@@ -1,5 +1,7 @@
 # Тестирование веб-приложений.
 
+#### Этот и последующий репозиотрии относятся к проекту https://demoshopping.ru/ (интернет-магазин).
+
 
 ### Тест-план приложения "Интернет-магазин".
 [Ссылка на документ](https://docs.google.com/spreadsheets/d/1CCoHI9oucsJYGNEvq63fY73pzkVQnNNO915GFC16M8w/edit?usp=sharing)
